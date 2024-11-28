@@ -130,11 +130,6 @@ We compared both models using accuracy, precision, recall, and F1-score metrics,
 ---
 
 ## Conclusion  
-Got it! Here's the revised **Conclusion** section focused on the broader impact of the credit card fraud detection model, insights, and recommendations:
-
----
-
-## Conclusion  
 Our credit card fraud detection model demonstrated a significant ability to distinguish between fraudulent and legitimate transactions. By leveraging machine learning techniques such as Logistic Regression and Random Forest, we developed a robust solution capable of identifying fraudulent transactions with high accuracy.
 
 ### Key Insights:  
